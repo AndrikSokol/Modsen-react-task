@@ -1,0 +1,15 @@
+export enum ROUTES {
+  COMMON = '/',
+  HOME = 'home',
+  SOLUTIONS = 'solutions',
+  PAGES = 'pages',
+  ELEMENTS = 'elements',
+  BlOG = 'blog',
+  CONTACTS = 'contacts',
+  SERVICES = 'services',
+  ABOUT = 'about',
+  TEAM = 'team',
+  FAQ = 'faq',
+  SITE_MAP = 'site-map',
+  PRICING = 'pricing',
+}

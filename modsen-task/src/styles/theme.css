@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&family=Open+Sans:wght@300..800&display=swap');
+
+body {
+  font-family: 'Manrope';
+}
+:root {
+  --bg-header-light: #f1f6fa;
+  --bg-footer-dark: #002b4e;
+
+  --colors-primary: #185cff;
+  --colors-primary-hover: #467dff;
+  --colors-primary-disabled: #9497a1;
+  --colors-text-light: white;
+  --colors-text-dark: black;
+  --colors-text-hover: #185cff;
+  --colors-helper: #c9dcec;
+  --colors-text-muted: #9497a1;
+
+  --fw-800: 800;
+  --fw-400: 400;
+
+  --colors-secondary: #002b4e;
+  --colors-tertiary: #f0f9ff;
+  --colors-helper-blue-1: #194060;
+  --colors-helper-blue-2: #607d94;
+  --colors-helper-blue-3: #c9dcec;
+  --colors-black: #292d33;
+  --colors-white: #fff;
+  --colors-grey: #9497a1;
+  --colors-light: #f1f6fa;
+  --colors-error: #c14040;
+
+  /* --shadow-button : */
+  --shadow-button: 0 12px 30px rgba(24, 92, 255, 0.18);
+  --shadow-card-3: 0 4px 12px rgba(12, 68, 204, 0.1);
+  --shadow-card-2: 0 12px 30px 17px rgba(24, 92, 255, 0.04);
+  --shadow-card-2: 0 2px 20px 17px rgba(24, 92, 255, 0.04);
+  --shadow-dropdown: 0 1px 2px 0 rgba(0, 43, 78, 0.3);
+}
